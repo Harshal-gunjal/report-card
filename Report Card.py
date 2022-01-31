@@ -78,7 +78,6 @@ print('\n')
 
 
 
-print('                              Atomic Energy Central School No. 3                              ')
 print('                                         REPORT CARD                                          ')
 
 
